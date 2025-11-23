@@ -1,4 +1,4 @@
-# Begginer Web Dev:
+# Begginer Web Dev and Data_SCience Class Notes:
  
 --To make a fully furnished website you need to follow these steps:
 
